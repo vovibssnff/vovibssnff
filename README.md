@@ -1,4 +1,4 @@
-Владимир Бессонов, ИТМО СППО, 2 курс
+ИТМО СППО, 2 курс
 
 <p align="center">
   <img src="https://github.com/vovibssnff/vovibssnff/assets/91390914/27456526-9b98-400b-a332-7920b1a557b3" />
