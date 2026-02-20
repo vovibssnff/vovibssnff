@@ -1,4 +1,4 @@
-ИТМО СППО, 3 курс
+ИТМО СППО, 4 курс
 
 <p align="center">
   <img src="https://github.com/vovibssnff/vovibssnff/assets/91390914/27456526-9b98-400b-a332-7920b1a557b3" />
